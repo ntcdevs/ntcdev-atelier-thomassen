@@ -133,7 +133,7 @@
   },
   "images": {
     "hero": "other/hero-01.jpg",
-    "about": "other/shop-01.jpg",
+    "about": "https://ubhmaudibilphahbrtyc.supabase.co/storage/v1/object/public/lead-assets/3757ae7b-6589-46cb-b6e6-0ef59080a0c4/about/dance.jpg",
     "gallery": [
       "other/shop-01.jpg",
       "other/shop-02.jpg",
